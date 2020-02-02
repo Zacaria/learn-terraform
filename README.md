@@ -8,3 +8,4 @@ Commands :
 - `terraform apply`
 - `terraform show`
 - `terraform state list`
+- `terraform destroy`
