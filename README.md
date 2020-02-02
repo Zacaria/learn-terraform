@@ -1,6 +1,10 @@
-https://carlchenet.com/debuter-avec-aws-et-terraform-deployer-une-instance-ec2/
+Official getting-started
 
+https://learn.hashicorp.com/terraform/getting-started/build
 
-The problem is that the tuto uses ssh keys.
-
-I'm not going to upload them on github. Uh ...
+Commands :
+- `terraform init`
+- `terraform fmt`
+- `terraform apply`
+- `terraform show`
+- `terraform state list`
